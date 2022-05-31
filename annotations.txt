@@ -7,7 +7,12 @@
 // application modules
 // users module / orders module / chat module, etc...
 
+
 // providers, array de providers dentro do módulo via injeção de dependência
 
 
 npm run start:dev //hot loading
+
+
+// nest g module <name>
+// nesg g controller <name>
