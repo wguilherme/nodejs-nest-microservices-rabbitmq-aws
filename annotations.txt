@@ -1,3 +1,13 @@
 // toda aplicação nest precisa de no mínimo 1 módulo
+// é o root point da aplicação
+
+// os modules são singletons
+// vários módulos
+
+// application modules
+// users module / orders module / chat module, etc...
+
+// providers, array de providers dentro do módulo via injeção de dependência
+
 
 npm run start:dev //hot loading
